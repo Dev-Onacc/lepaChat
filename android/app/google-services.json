@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745925268663",
+    "project_id": "lepachat",
+    "storage_bucket": "lepachat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745925268663:android:2243129ce28b55caa7a932",
+        "android_client_info": {
+          "package_name": "com.example.lepa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA3tnkEd3FGDeK17G7dm-gqeEtpt10WUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
